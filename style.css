@@ -4,13 +4,13 @@
   --color-white: #ffffff;
   --color-light-white: #eeeeee;
   --color-dark-white: #bdbdbd;
-  --color-light-blue: #3895d3;
-  --color-dark-blue: #072f5f;
+  --color-light-blue: #bdbdbd;
+  --color-dark-blue: #2d108b;
   --color-dark-grey: #4d4d4d;
   --color-grey: #616161;
   --color-light-grey: #7c7979;
-  --color-blue: #1261a0;
-  --color-yellow: #fff7d1;
+  --color-blue: #28258e;
+  --color-yellow: #E6EAF5;
   --color-orange: #f57d6c;
   --color-black: #000000;
 
@@ -105,7 +105,7 @@ p {
 }
 
 #navbar.navbar--dark {
-  background-color: var(--color-dark-blue);
+  background-color: #020024;
 }
 
 .navbar__logo {
@@ -146,11 +146,11 @@ p {
 
 /* Home */
 #home {
-  background: rgb(7, 47, 95);
+  background: rgb(2, 0, 36);
   background: linear-gradient(0deg,
-      rgba(7, 47, 95, 1) 32%,
-      rgba(18, 97, 160, 1) 66%,
-      rgba(56, 149, 211, 1) 100%);
+      rgba(2, 0, 36, 1) 0%,
+      rgba(32, 28, 107, 1) 67%,
+      rgba(45, 16, 139, 1) 100%);
   padding: 40px;
   padding-top: 120px;
   text-align: center;
@@ -560,7 +560,7 @@ p {
 
 /* Testimonials */
 #testimonials {
-  background-color: var(--color-light-white);
+  background-color: var(--color-yellow);
 }
 
 .testimonials {
@@ -602,12 +602,11 @@ p {
 
 /* Contact */
 #contact {
-  background: rgb(56, 149, 211);
-  background: linear-gradient(0deg,
-      rgba(56, 149, 211, 1) 1%,
-      rgba(18, 97, 160, 1) 15%,
-      rgba(7, 47, 95, 1) 40%);
-  color: var(--color-white);
+  background: rgb(2, 0, 36);
+  background: linear-gradient(180deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(32, 28, 107, 1) 67%,
+      rgba(45, 16, 139, 1) 100%);
 }
 
 .contact__title,
