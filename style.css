@@ -342,7 +342,6 @@ p {
   height: 100%;
   width: 100%;
   background-color: #fff;
-  -webkit-border-radius: 100%;
   clip: rect(0px, 100px, 100px, 50px);
 }
 
@@ -350,7 +349,6 @@ p {
   position: absolute;
   height: 100%;
   width: 100%;
-  -webkit-border-radius: 100%;
   clip: rect(0px, 50px, 100px, 0px);
   background: #4158d0;
 }
@@ -359,7 +357,6 @@ p {
   position: absolute;
   height: 100%;
   width: 100%;
-  -webkit-border-radius: 100%;
   clip: rect(0px, 50px, 100px, 0px);
   background: #4158d0;
 }
@@ -368,7 +365,6 @@ p {
   position: absolute;
   height: 100%;
   width: 100%;
-  -webkit-border-radius: 100%;
   clip: rect(0px, 50px, 100px, 0px);
   background: #4158d0;
 }
