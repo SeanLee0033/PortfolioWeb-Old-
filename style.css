@@ -106,11 +106,14 @@ p {
 
 #navbar.navbar--dark {
   background-color: var(--color-dark-blue);
+  height: 80px;
 }
 
 .navbar__logo {
   font-size: var(--font-medium);
   font-weight: var(--weight-semi-bold);
+  padding: 10px;
+  padding-left: 25px;
 }
 
 .navbar__menu {
